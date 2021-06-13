@@ -1,0 +1,10 @@
+('KRISH SONI', 'MALE', '7490943807', 'sonikrish994@gmail.com')
+('KRISH', 'MALE', '7490943807', 'info@gmail.com')
+('KRISH SONI', 'MALE', '7984391355', 'krish_soni@orange.com')
+('KRISH SONI', '8756552222')
+('Krishsoni1', 'biguij;jjkvjlh')
+
+('KRISH SONI', 'A12@jiohio ')
+('KRISH SONI', '12', 'M2', '001126', '@#krish89898')
+('SONI BHAIYAA', '12', 'M2', '001126', '1/WWBHIVHIG')
+('TONY STARK', 'FIRST CLASS', 'PHYSICS BATCH', '100', 'BJOHIBHKBHIPJJKB')
