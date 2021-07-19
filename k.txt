@@ -1,6 +1,6 @@
-('KRISH SONI', 'MALE', '7490943807', 'sonikrish994@gmail.com')
-('KRISH', 'MALE', '7490943807', 'info@gmail.com')
-('KRISH SONI', 'MALE', '7984391355', 'krish_soni@orange.com')
+('KRISH SONI', 'MALE', '93838383838383', 'sonikrish994@gmail.com')
+('KRISH', 'MALE', '74909898907', 'info@gmail.com')
+('KRISH SONI', 'MALE', '7987968655', 'krish_soni@orange.com')
 ('KRISH SONI', '8756552222')
 ('Krishsoni1', 'biguij;jjkvjlh')
 
