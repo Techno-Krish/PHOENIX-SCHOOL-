@@ -1,7 +1,7 @@
 from tkinter import *
 phoenix = Tk()
 
-phoenix.title("STUDENT LOGIN (SIGN-UP )")
+phoenix.title("Student Registration")
 phoenix.geometry("900x900")
 
 phoenix.configure(bg='blue')
@@ -10,12 +10,12 @@ def krish():
    print("YOUR PROFILE HAS BEEN CREATED ")
    print(f"{namevar.get() , stdvar.get() , batchvar.get() , rnvar.get() , passvar.get()}\n")
 
-   with open("k.txt", "a") as f:
+   with open("data.txt", "a") as f:
        f.write(f"{namevar.get() , stdvar.get() , batchvar.get() , rnvar.get() , passvar.get()}\n")
 
 Label(phoenix, text="WELCOME TO PHOENIX E-LEARNING " , font= " Catamaran 20 " , bg="BLACK" , fg="white",padx=30,pady=20).grid(row = 0, column= 3)
 
-photo = PhotoImage(file="Phoenix-School-Phoenix.png")
+# photo = PhotoImage(file="logo.jpg")
 name = Label(phoenix, text="NAME :", bg='cyan')
 std = Label(phoenix,text="CLASS :",bg='cyan')
 batch = Label(phoenix,text="BATCH :",bg='cyan')

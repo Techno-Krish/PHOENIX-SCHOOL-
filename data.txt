@@ -1,0 +1,12 @@
+('KRISH SONI', 'MALE', '93838383838383', 'mpkrishsoni001126@gmail.com')
+('KRISH', 'MALE', '74909898907', 'info@gmail.com')
+('KRISH SONI', 'MALE', '7987968655', 'krish_soni@orange.com')
+('KRISH SONI', '8756552222')
+('Krishsoni1', 'biguij;jjkvjlh')
+
+('KRISH SONI', 'A12@jiohio ')
+('KRISH SONI', '12', 'M2', '001126', 'rish89898')
+('SONI BHAIYAA', '12', 'M2', '001126', '1/WWBHIVHIG')
+('TONY STARK', 'FIRST CLASS', 'PHYSICS BATCH', '100', 'BJOHIBHKBHIPJJKB')
+('Darshit Barad', '12', 'M2', '22092003', 'dbdb1234#69')
+('Jay Dixit', '11', 'GM', '0542004', '656erhr3fw')
